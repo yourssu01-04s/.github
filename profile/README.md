@@ -15,5 +15,5 @@
   <a href="https://github.com/fekapark">@Feka</a> (2024 WEB-FE 신참)
 </div>
 <div>
-  <a href="https://github.com/owl1753">@Jerome</a> (2024 WEB-FE 신참)
+  <a href="https://github.com/owl1753">@Jerome</a> (👍👍👍2024 WEB-FE 신참👍👍👍)
 </div>
