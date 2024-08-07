@@ -17,3 +17,6 @@
 <div>
   <a href="https://github.com/owl1753">@Jerome</a> (👍👍👍2024 WEB-FE 신참👍👍👍)
 </div>
+<div>
+  <a href="https://github.com/seocylucky">@Chaeri</a> (🍒채리정신체리🍒)
+</div>
